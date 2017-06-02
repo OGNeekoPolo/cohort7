@@ -1,0 +1,35 @@
+/*
+    Colors from: https://color.adobe.com/doodoomchit-color-theme-9578264/edit/?copy=true
+*/
+body {
+  font-family: Comic Sans MS, Monotype Corsiva, sans-serif;
+  background-image: url("hip-square.png");
+}
+
+div {
+  background-color: white;
+  padding: 25px;
+  width: 450px;
+  table-layout: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table {
+  border: 2px lightgrey solid;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: lightgrey;
+  font: purple;
+}
+
+td {
+  border: 2px solid grey;
+}
+
+tfoot {
+  background-color: rgb(209, 71, 32);
+  font: white bold;
+}
